@@ -1,2 +1,2 @@
-# Newco
-A Newco project created by  X-Men
+# Welcome to SmartHire
+A Newco project created by XPeople
