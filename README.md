@@ -1,2 +1,3 @@
 # Welcome to SmartHire
-A Newco project created by XPeople
+A SmartHire is CRM tool meant to empower Human Resource Managers(HR) and Recruiters alike to hire/recruit 
+talents in a more efficient way with ease. 
