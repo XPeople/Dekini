@@ -1,12 +1,9 @@
-# Welcome to SmartHire
-A SmartHire is CRM tool meant to empower Human Resource Managers(HR) and Recruiters alike to hire/recruit 
-talents in a more efficient way with ease. 
+# Welcome to Dekini
 
-The timing of SmartHire couldn't be better as businesses are not getting the best from their recruits 
-which leads to loss of revenue in a more comprtitive business environment as it is today.
+For shippers, we understand that getting goods from one place to another at the rigth time and budget is very difficult. And for vendors(Shipping agencies) making services availble to potential shippers is a major problem. Also records management of shipping and invoicing is still done with paper manually and its time consuming.
 
-SmartHire is here to empower recruiters set what they look out for in an ideal talent. This involves them setting metrics on talents, qualification,relevant experience, interest, skills among others, and smarthire finds the right applicants,  and goes on further through the shortlisting process. 
+Dekini is here to connect shippers to the right vendors, reducing the time for negotiation and dealing times. Dekini provides a dashboard for shipping agencies and businesses and individuals alike for their freight dealings.
 
-Smarthire also allows job seekers/student to build their profle... 
+The timing of Dekini couldn't be better. It is here to eliminate all the hassle it takes to import from the shipping to clearing.
 
 
