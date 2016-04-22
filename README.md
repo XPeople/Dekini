@@ -6,4 +6,22 @@ Dekini is here to connect shippers to the right vendors, reducing the time for n
 
 The timing of Dekini couldn't be better. It is here to eliminate all the hassle it takes to import from the shipping to clearing.
 
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
+
 
