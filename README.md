@@ -7,6 +7,9 @@ Dekini is here to connect shippers to the right vendors, reducing the time for n
 The timing of Dekini couldn't be better. It is here to eliminate all the hassle it takes to import from the shipping to clearing.
 
 * Ruby version
+   Dekini is built with Ruby on Rails
+   Ruby 2.2.3
+   Rails 4.2.5.1
 
 * System dependencies
 
@@ -17,6 +20,7 @@ The timing of Dekini couldn't be better. It is here to eliminate all the hassle 
 * Database initialization
 
 * How to run the test suite
+   Dekini uses rspec-rails for testing. To run a test, enter the  command: bundle exec rspec <name of test file>
 
 * Services (job queues, cache servers, search engines, etc.)
 
